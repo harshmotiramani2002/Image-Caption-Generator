@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+Images/
+Flickr8k_Dataset/
+Flickr8k_text/
